@@ -39,3 +39,4 @@ console.log(find)
 const number5 = [1, 2, 3, 4];
 const reduce = number5.reduce((prev, current) => prev + current, 0);
 console.log(reduce)
+

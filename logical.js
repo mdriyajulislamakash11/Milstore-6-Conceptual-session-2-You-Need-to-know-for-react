@@ -1,6 +1,6 @@
 const person = {
     name: "akash",
-    age: 23,
+    age: 3,
     isStudent: true,
     details: "",
   };
