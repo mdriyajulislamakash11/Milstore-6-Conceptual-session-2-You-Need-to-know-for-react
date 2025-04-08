@@ -1,0 +1,9 @@
+1. basic of javascript
+2. template string, arrow function, spread oparetor
+3. array destructuring, object destructuring
+4. JSON stringify and parse, fetch
+5. shortcut, truthy or falsy value..
+6. ternury oparetor
+7. logical and, logical or,
+
+// promise
