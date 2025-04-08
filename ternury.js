@@ -20,3 +20,5 @@ console.log(sentance2)
 
 let sentance = person.isStudent ? "he is s student" :"he is a not student";
 console.log(sentance)
+
+//
